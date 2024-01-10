@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/com.sun.jersey.jersey-servlet-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/jersey-client-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/jersey-core-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/jersey-core-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/jersey-json-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/jersey-server-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/jersey-server-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/jersey-servlet-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riahi/Downloads/jersey-20231103T085212Z-001/jersey/stax-api-1.0-2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
